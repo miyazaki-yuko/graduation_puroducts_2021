@@ -1,0 +1,22 @@
+{
+  "name": "webandtouchdesigner",
+  "version": "1.0.0",
+  "description": "websocket between touchdesigner",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "websocket",
+    "p5.js",
+    "touchdesigner"
+  ],
+  "author": "Yuko Miyazaki",
+  "license": "ISC"
+}
